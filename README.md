@@ -1,2 +1,2 @@
 # task-management-app
-Simple CRUS using nestjs and mongoose
+Simple CRUD using nestjs and mongoose
